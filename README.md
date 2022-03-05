@@ -12,7 +12,7 @@
 
 ### Screenshot
 
-![screenshot](./images/OrderSummary.png)
+![screenshot](./imagens/OrderSummary.png)
 
 ### Links
 
