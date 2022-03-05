@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2? family= Roupa:wght@300;400;600 & family= Red+Hat+Display:wght@500;700;900 & display= troca');
+
+body {
+  background-image: url(/images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-color: hsl(225, 100%, 94%);
+  font-family: 'Outfit', sem serifa;
+}
+
+.container {
+  padding-bottom: 30px;
+  border-radius: 1.2em;
+  margin: 0 auto;
+  background-color: white ;
+  max-width: 400px;
+  position: relative;
+  box-shadow: 5px 10px 40px rgb(0 0 0 / 30%);
+  }
+
+.hero {
+  width: 100%;
+  border-top-right-radius: 1.2em;
+  border-top-left-radius: 1.2em;
+  }
+
+h1 {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+p {
+  text-align: center;
+  color: hsl(224, 23%, 55%);
+}
+
+.text {
+  margin-top: 0px;
+  font-size: 18px;
+}
+
+.info {
+  display: flex;
+  padding: 1rem 0 ;
+  margin: 0 auto;
+  justify-content: space-around;
+  width: 90%;
+  align-items: center;
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 10px;
+}
+
+.info p {
+  margin: 1px;
+}
+
+.change {
+  margin-left: 40px;
+  text-decoration: underline;
+  font-size: 10px;
+  color:hsl(245, 75%, 52%); 
+}
+
+.change:hover {
+  color:  hsl(245, 70%, 45%);
+}
+
+.annual {
+  margin-left: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  margin: 0px;
+}
+
+img {
+  right: 500px;
+}
+
+h4 {
+  margin: 0px;
+  font-size: 1.2rem;
+}
+
+.ptp {
+  background-color: hsl(245, 75%, 52%);
+  box-shadow: rgb(50 50 93 / 25%) 0px 13px 27px -5px, rgb(0 0 0 / 30%) 0px 8px 16px -8px;
+  padding: 1.2rem;
+  margin: 2rem 1rem 1rem 1.2rem;
+  border-radius: 15px;
+  font: inherit;
+  width: 80%;
+  transition: opacity 0.25s ease;
+  text-align: center;
+}
+.ptp:hover {
+  background-color: hsl(245, 70%, 45%);
+}
+
+.text-ptp {
+  color: white;
+  font-size: 1.2rem;
+}
+ 
+.co {
+  font-size: 1.2rem;
+  width: 80%;
+  font-weight: 700;
+  color: hsl(224, 23%, 55%);
+  padding-bottom: 0rem;
+  padding-left: 1.2rem;
+  padding-top: 1rem;
+  margin-left: 3rem;
+  border-radius: 15px;
+}
+
