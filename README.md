@@ -16,8 +16,8 @@
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/franszc/order-summary-component]
+- Live Site URL: [https://franszc.github.io/order-summary-component/]
 
 ### Built with
 
